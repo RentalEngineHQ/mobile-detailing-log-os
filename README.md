@@ -1,20 +1,20 @@
-# mobile-detailing-log-os
-
 # Mobile Detailing Log & Ceramic Coating OS Route Management & Material Costing Ledger
 
-Welcome to the official repository for the Mobile Detailing Log & Ceramic Coating OS framework—a permanent-ownership, break-proof back-office tracking ledger engineered exclusively for elite Microsoft Excel (.xlsx) workbooks and cloud Notion dashboards. Purpose-built for mobile auto detailing businesses, paint correction specialists, and ceramic coating shops, this standalone architecture calculates multi-stop client routes, product dilution ratios, and labor task allocations natively on background automation.
+Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
-🔒 **100% Corporate Vault-Secured:** This Excel Ledger is completely Macro-Free, formula-locked, and guaranteed to clear all strict corporate firewalls instantly.
+<p align="center">
+  <img src="preview.png" width="85%" style="max-width: 400px; border-radius: 8px;">
+</p>
 
-## ⚙️ Core Operational Infrastructure Engaged
-* **Detailing Route Dispatch & Client Registries:** Relational data cells tracking vehicle make/model configurations, structural soil levels, scheduled coating timeframes, and recurring detail membership dates.
-* **Chemical Consumption & Dilution Costing:** Advanced calculation lines monitoring product concentration yields (wheel cleaners, iron removers, compounding polishes), compound pad counts, and specialized ceramic coating application logs.
-* **Job Ticket Profit Margin Diagnostics:** Live-updating cell arrays factoring structural labor hours, mobile truck generator fuel overheads, chemical usage costs, and absolute net take-home cash flow margins per vehicle.
+### 🔑 SECURE ENTERPRISE PROCURE CONDUIT
+Bypass bloated monthly software licensing fees instantly. Secure your permanent, offline dark-mode corporate Excel operating workbook below:
 
-## 📦 Procurement & Secure Download Gateway
-To bypass legacy monthly SaaS subscription software and initialize your break-proof digital download container, choose your native operational platform pipeline below:
+### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com)
 
-### 🧼 For Microsoft Excel Desktop Workspace ($149.00 One-Time Fee)
-👉 <a href="https://rentalengine.gumroad.com" target="_blank" rel="noopener noreferrer"><b>Procure the Mobile Detailing Excel OS Here</b></a>
+*⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
 
-*Developer Note: To bypass client drop-off, clicking procurement triggers a forced browser tab expansion loop. Developed by RentalEngine. Hardcoded macro-free integrity. All platform data rights reserved.*
+---
+
+Welcome to the off-grid documentation node for the specialized Back-Office Operating System framework—a break-proof enterprise ledger engineered exclusively for elite Microsoft Excel (.xlsx) local deployments. Designed explicitly to lower monthly business software overhead, this standalone layout handles commercial dispatch tracking, real-time job costing, operational cost burn, and true net margin profit calculations natively on background formula automation.
+
+🔒 **100% Corporate Vault-Secured:** This industrial spreadsheet utility is completely Macro-Free, formula-locked, and cleared of tracking scripts to instantly satisfy strict company data firewalls.
